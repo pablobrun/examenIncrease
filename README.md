@@ -11,11 +11,11 @@ behave     1.2.6<br>
 requests   2.25.1
 
 # Uso
-Encontrará 2 carpetas: Frontend y Backend correspondientes a las etapas del examen
-Frontend se ejecuta con el comando "behave" desde consola
-Backend se ejecuta desde el archivo backend.py
+Encontrará 2 carpetas: Frontend y Backend correspondientes a las etapas del examen.<br>
+Frontend se ejecuta con el comando "behave" desde consola.<br>
+Backend se ejecuta desde el archivo backend.py.<br>
 
-#Archivos
+# Archivos
 Encontrará el archivo examenTecnicoQAIncrease2021.pdf con todas las explicaciones del ejercicio
 En el archivo planDePruebas.xmls encontrará el plan de pruebas y el reporte solicitado por el ejercicio
 
