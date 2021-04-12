@@ -15,8 +15,5 @@ Encontrará 2 carpetas: Frontend y Backend correspondientes a las etapas del exa
 Frontend se ejecuta con el comando "behave" desde consola.<br>
 Backend se ejecuta desde el archivo backend.py.<br>
 
-# Archivos
-Encontrará el archivo examenTecnicoQAIncrease2021.pdf con todas las explicaciones del ejercicio
-En el archivo planDePruebas.xmls encontrará el plan de pruebas y el reporte solicitado por el ejercicio
 
 
