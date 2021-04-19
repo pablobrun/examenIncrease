@@ -1,0 +1,19 @@
+{
+  "name": "examenincrease",
+  "version": "1.0.0",
+  "description": "examen increase",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.1.0",
+    "cypress-cucumber-preprocessor": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
